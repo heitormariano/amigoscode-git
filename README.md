@@ -1,8 +1,8 @@
-# Git and GitHub course
+# Git and GitHub Course
 
 ## This repo was used to learn git from Amigoscode
 
 https://amigoscode.com/courses/git-github
 
 
-![github_v1](https://user-images.githubusercontent.com/17083187/127247518-6adaf33e-1dd9-462a-9550-aeab26d1f4e3.jpg)
+![github_v2](https://user-images.githubusercontent.com/17083187/127248423-f50a58c3-a166-4f69-a224-41ca4d9e80e3.jpg)
